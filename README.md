@@ -54,7 +54,8 @@ PSEUDO CODE FOR ARMSTRONG NUMBER:-
     Output "thankyou for finding for your solution"
 End
 
-file:///C:/Users/ychar/OneDrive%20-%20Amrita%20Vishwa%20Vidyapeetham-%20Chennai%20Campus/Documents/PSAT%20LAB%201/armstrong%20number11111.pdf
+[armstrong number](file:///C:/Users/ychar/OneDrive%20-%20Amrita%20Vishwa%20Vidyapeetham-%20Chennai%20Campus/Documents/PSAT%20LAB%201/armstrong%20number11111.pdf)
+
 
 
 
